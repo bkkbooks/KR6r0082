@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0082/v1
 canonical_location: https://kanripo.org/bkk/KR6r0082/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 西舫彙征
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0082_000.yaml, hash: 'sha256:e7051500390ce033997503f7d0eb988696424bda9ba4ccbd3b0e7de11fb5c519'}
-  - {seq: 1, filename: KR6r0082_001.yaml, hash: 'sha256:04406e2de7acab68a097d2f22d639d283f02c554e78f9e0f3423e66f70774198'}
-  - {seq: 2, filename: KR6r0082_002.yaml, hash: 'sha256:684a44da8cb2bfdd12c267a92529ae77e3ba3733d9fdc658b2a2705fa4be74a2'}
+  - {seq: 0, filename: KR6r0082_000.yaml, hash: 'sha256:8ddc8a9734fc6c2f900a2b66875027cc5737f0c06c545e110ad0c80d83d38494'}
+  - {seq: 1, filename: KR6r0082_001.yaml, hash: 'sha256:4cb9eaba216adccfb66906a70d292514d253cea6622f53f36cadd98f0315a697'}
+  - {seq: 2, filename: KR6r0082_002.yaml, hash: 'sha256:2edcc73c860befb63d28153b9e74877c4b2fc38e4b923fd25342342d74097ec4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0082_000.markers.yaml, hash: 'sha256:32bf2e3117e70e83f69e872308b8b07f18d64bc5fac3eabdc88661150e15864a'}
-  - {seq: 1, role: markers, filename: assets/KR6r0082_001.markers.yaml, hash: 'sha256:90405c478876a44874e7e5c995011d66c7f007883d94900735cb0e51f1be442e'}
-  - {seq: 2, role: markers, filename: assets/KR6r0082_002.markers.yaml, hash: 'sha256:10d718c938c9d6bf130527b8c5bd09b74d9176f37082651079b3c78a5859888c'}
+  - {seq: 0, role: markers, filename: assets/KR6r0082_000.markers.yaml, hash: 'sha256:f9cf970512e7df1119c2b409254448155772676d2519a4f272528acfa9ff535f'}
+  - {seq: 1, role: markers, filename: assets/KR6r0082_001.markers.yaml, hash: 'sha256:9a7b6fd565ae9b86f23b38a13ceb03b94e64e7d4c796ad23956df9849947d8b4'}
+  - {seq: 2, role: markers, filename: assets/KR6r0082_002.markers.yaml, hash: 'sha256:d6dd54b50eacbaeb73e47b68a28cc147595761341acd68661a7cb635885a5da0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4229,4 +4229,7 @@ table_of_contents:
   label: 杭郡普慈寺僧天一
   type: mulu
   level: 1
-hash: sha256:913f636074b5217ba55cfac7dbfa7c0ec891780cc4ac632ca562bff13901b3ae
+hash: sha256:d368ed332836089e56cae7b80992a2c99afca6068e96267de64ebc88533cdac9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
