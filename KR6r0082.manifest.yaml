@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0082_000.yaml, hash: 'sha256:8ddc8a9734fc6c2f900a2b66875027cc5737f0c06c545e110ad0c80d83d38494'}
+  - {seq: 0, filename: KR6r0082_000.yaml, hash: 'sha256:24e79f836a2a06e75a7e198dd658105203f8da44d829550eb71a1990b181e266'}
   - {seq: 1, filename: KR6r0082_001.yaml, hash: 'sha256:4cb9eaba216adccfb66906a70d292514d253cea6622f53f36cadd98f0315a697'}
   - {seq: 2, filename: KR6r0082_002.yaml, hash: 'sha256:2edcc73c860befb63d28153b9e74877c4b2fc38e4b923fd25342342d74097ec4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0082_000.markers.yaml, hash: 'sha256:f9cf970512e7df1119c2b409254448155772676d2519a4f272528acfa9ff535f'}
+  - {seq: 0, role: markers, filename: assets/KR6r0082_000.markers.yaml, hash: 'sha256:4d04acbb3d432cf151a008488eddcf2231cca00534b2afa7ce71fd8ed059b712'}
   - {seq: 1, role: markers, filename: assets/KR6r0082_001.markers.yaml, hash: 'sha256:9a7b6fd565ae9b86f23b38a13ceb03b94e64e7d4c796ad23956df9849947d8b4'}
   - {seq: 2, role: markers, filename: assets/KR6r0082_002.markers.yaml, hash: 'sha256:d6dd54b50eacbaeb73e47b68a28cc147595761341acd68661a7cb635885a5da0'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0082_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1551-A 西舫彚征序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0082_X_000-mulu-2
     span:
-    - front
+    - body
     - 378
     - 378
   label: 西舫彚征目錄
@@ -4229,7 +4229,7 @@ table_of_contents:
   label: 杭郡普慈寺僧天一
   type: mulu
   level: 1
-hash: sha256:d368ed332836089e56cae7b80992a2c99afca6068e96267de64ebc88533cdac9
+hash: sha256:66752fb79bce3d66583831cc09c65b9f205c674f4df59285dd972135db771109
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
